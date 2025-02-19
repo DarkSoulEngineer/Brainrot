@@ -2,7 +2,7 @@
 
 ## A Chaotic Java GUI Experience
 
-!['Brainrot Overload'](https://github.com/joshuaparker2/Brainrot/blob/brainrot/assets/backrounds/brainrot.png?raw=true)
+![brainrot](https://github.com/user-attachments/assets/070eed6f-8a26-4730-a64c-011ee4575056)
 
 ### Overview
 
