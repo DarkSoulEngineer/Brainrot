@@ -1,5 +1,5 @@
 # Brainrot
-**A chaotic Java graphical experience — Brainrot Overload**
+**A chaotic Java graphical experience**
 
 [![License](https://img.shields.io/github/license/DarkSoulEngineer/Brainrot)](LICENSE)
 ![Java](https://img.shields.io/badge/Java-8%2B-ED8B00?logo=openjdk&logoColor=white)
@@ -21,7 +21,7 @@
 
 ## Description
 
-Brainrot Overload is a disruptive Java application designed to simulate sensory overload through erratic GUI behavior, chaotic meme bombardment, and glitchy audio effects. This project serves as an experimental test of Java Swing limitations and user experience under extreme conditions.
+Brainrot Overload is a disruptive Java application that simulates sensory overload through erratic GUI behavior, chaotic meme bombardment, and glitchy audio effects. It tests Java Swing limits and UX under extreme conditions.
 
 > **Disclaimer:** This application is developed for educational and research purposes. It does not cause permanent system changes and should be tested in a controlled environment (e.g., a virtual machine).
 
@@ -199,4 +199,4 @@ All pop-up creations are logged to `log.txt`.
 
 ## License
 
-Apache-2.0 — see [LICENSE](LICENSE).
+Apache-2.0. See [LICENSE](LICENSE).
